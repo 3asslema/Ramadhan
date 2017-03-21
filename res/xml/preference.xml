@@ -1,0 +1,5 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference android:entries="@array/values" android:title="Adhan" android:summary="This preference let you choose the adhan you want"
+        android:entryValues="@array/keys"/>
+    <CheckBoxPreference android:title="Enable adhan" />
+    </PreferenceScreen>

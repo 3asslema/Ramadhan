@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">Muslim Bag</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Muslim Bag</string>
+    <string name="title_activity_qibla">QiblaActivity</string>
+    <string name="title_activity_time">TimeActivity</string>
+    <string name="title_activity_mosquee">MosqueeActivity</string>
+    <string name="title_activity_koran">KoranActivity</string>
+    <string name="title_activity_mosque">Mosque</string>
+    <string name="title_activity_list_koran">ListKoran</string>
+    <string name="title_activity_boussole">Boussole</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string-array name="keys">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="values">
+        <item>A</item>
+        <item>B</item>
+    </string-array>
+
+</resources>

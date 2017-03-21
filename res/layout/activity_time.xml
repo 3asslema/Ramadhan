@@ -1,0 +1,64 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:gravity="center_vertical"
+    android:background="@drawable/aa"
+    >
+
+    <TextView
+        android:id="@+id/fajr"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Fajr: "
+        android:textColor="#ffffff"
+        android:textSize="30dp"
+        android:typeface="serif" />
+
+    <TextView
+        android:id="@+id/sunrise"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Sunrise: "
+        android:textSize="30dp" 
+         android:typeface="serif"
+        android:textColor="#ffffff"/>
+
+    <TextView
+        android:id="@+id/zuhr"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Dhuhr: "
+        android:textSize="30dp" 
+         android:typeface="serif"
+        android:textColor="#ffffff"/>
+
+    <TextView
+        android:id="@+id/asr"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Asr: "
+        android:textSize="30dp" 
+         android:typeface="serif"
+        android:textColor="#ffffff"/>
+
+    <TextView
+        android:id="@+id/maghrib"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Maghreb: "
+        android:textSize="30dp" 
+         android:typeface="serif"
+        android:textColor="#ffffff"/>
+
+    <TextView
+        android:id="@+id/icha"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Icha: "
+        android:textSize="30dp" 
+         android:typeface="serif"
+        android:textColor="#ffffff"/>
+
+</LinearLayout>
